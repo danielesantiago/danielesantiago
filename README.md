@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
-<h3 align="center">Robotic Process Automation Developer at BTG Pactual.</h3>
+<h3 align="center">IT Assistant at BTG Pactual.</h3>
 
 - 🔭 I’m currently working on [Data-Science](https://github.com/danielesantiago/Data-Science)
 
