@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Daniele</h1>
-<h3 align="center">IT Assistant at BTG Pactual.</h3>
+## 👋 Introduction
 
-- 🔭 I’m currently working on [Data-Science](https://github.com/danielesantiago/Data-Science)
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='right' src='https://media.giphy.com/media/inECjKmGYzGms/giphy.gif' width='300'>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Data Visualization and Statistics**
+[![author](https://img.shields.io/badge/author-dani-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![data-science](https://img.shields.io/badge/data-science-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![medium](https://img.shields.io/badge/blog-medium-blue.svg)](https://medium.com/@daniele.santiago) 
 
-- 📝 I regularly write articles on [https://medium.com/@daniele.santiago](https://medium.com/@daniele.santiago)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/daniele-santiago/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele-santiago/" height="30" width="40" /></a>
-<a href="https://instagram.com/_santiagodani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santiagodani" height="30" width="40" /></a>
-<a href="https://medium.com/@daniele.santiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daniele.santiago" height="30" width="40" /></a>
-</p>
+Hi there! I'm **Daniele**, a Computer Science undergraduate from Brazil and an avid Data Science enthusiast. Currently, I work as a developer at BTG Pactual, where I get to put my skills to use on a daily basis.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+With a strong background in **Python**, **C**, and **RPA**, I'm always eager to take on new challenges and explore new technologies. Whether you're interested in discussing these topics, or have any questions related to them, feel free to reach out to me. I'm always happy to connect and learn from others in the community.
+
+## 📫 Let's connect on social media!
+
+You can find me on [Instagram](https://www.instagram.com/_santiagodani/), [LinkedIn](https://www.linkedin.com/in/daniele-santiago/) and [Medium](https://medium.com/@daniele.santiago), or feel free to shoot me an [email](mailto:daniele@estudante.ufscar.br).
+
+## 💡 About me 
+
+- 🔭 I’m currently working on [Data-Science](https://github.com/danielesantiago/Data-Science).
+- 🌱  I'm always learning and growing my skills. Currently, I'm diving deeper into Python, machine learning, data visualization, and statistics.
+- ⚡ Fun fact: I'm a big coffee lover! It's my go-to drink to power through coding sessions.
+
+## 📚 Tech Articles and Talks 
+
+📝 I regularly write articles on [**medium**](https://medium.com/@daniele.santiago). Be sure to check them out if you're interested in staying up to date with the latest trends and insights in data science.
+ 
+## 💻 Open Source Work Stats
+
+![daniele's Github stats](https://github-readme-stats.vercel.app/api?username=danielesantiago&show_icons=true)
+
