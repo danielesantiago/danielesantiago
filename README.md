@@ -24,7 +24,4 @@ You can find me on [Instagram](https://www.instagram.com/_santiagodani/), [Linke
 
 📝 I regularly write articles on [**medium**](https://medium.com/@daniele.santiago). Be sure to check them out if you're interested in staying up to date with the latest trends and insights in data science.
  
-## 💻 Open Source Work Stats
-
-![daniele's Github stats](https://github-readme-stats.vercel.app/api?username=danielesantiago&show_icons=true)
 
