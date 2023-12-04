@@ -12,7 +12,7 @@ With a strong background in **Python**, **C**, and **RPA**, I'm always eager to 
 
 ## 📫 Let's connect on social media!
 
-You can find me on [Instagram](https://www.instagram.com/_santiagodani/), [LinkedIn](https://www.linkedin.com/in/daniele-santiago/) and [Medium](https://medium.com/@daniele.santiago), or feel free to shoot me an [email](mailto:daniele@estudante.ufscar.br).
+You can find me on [Instagram](https://www.instagram.com/adanielesantiago/), [LinkedIn](https://www.linkedin.com/in/daniele-santiago/) and [Medium](https://medium.com/@daniele.santiago), or feel free to shoot me an [email](mailto:daniele@estudante.ufscar.br).
 
 ## 💡 About me 
 
