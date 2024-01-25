@@ -6,7 +6,7 @@
 [![author](https://img.shields.io/badge/author-dani-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![data-science](https://img.shields.io/badge/data-science-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![medium](https://img.shields.io/badge/blog-medium-blue.svg)](https://medium.com/@daniele.santiago) 
 
 
-I'm **Daniele**, a Computer Science undergraduate from Brazil and an avid Data Science enthusiast. Currently, I work as an Automation Analyst at BTG Pactual, where I get to put my skills to use on a daily basis. I also serve as a **Data Science Mentor** at P.E.D (Data Interview Preparation), guiding the next generation of data enthusiasts.
+I'm **Daniele**, a Computer Science undergraduate from Brazil and an avid Data Science enthusiast. Currently, I work as an Data Science Intern at Nubank, where I get to put my skills to use on a daily basis. I also serve as a **Data Science Mentor** at P.E.D (Data Interview Preparation), guiding the next generation of data enthusiasts.
 
 With a strong background in **Python**, **C**, and **RPA**, I'm always eager to take on new challenges and explore new technologies. Whether you're interested in discussing these topics, or have any questions related to them, feel free to reach out to me. I'm always happy to connect and learn from others in the community.
 
