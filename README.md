@@ -6,9 +6,7 @@
 [![author](https://img.shields.io/badge/author-dani-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![data-science](https://img.shields.io/badge/data-science-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![medium](https://img.shields.io/badge/blog-medium-blue.svg)](https://medium.com/@daniele.santiago) 
 
 
-I'm **Daniele**, a Computer Science undergraduate from Brazil and an avid Data Science enthusiast. Currently, I work as a Data Scientist at Conta Azul, where I get to put my skills to use on a daily basis. I also serve as a **Data Science Professor** at P.E.D (Data Interview Preparation), guiding the next generation of data enthusiasts.
-
-With a strong background in **Python**, **C**, and **POO**, I'm always eager to take on new challenges and explore new technologies. Whether you're interested in discussing these topics, or have any questions related to them, feel free to reach out to me. I'm always happy to connect and learn from others in the community.
+I'm **Daniele**, a **Computer Science Bachelor’s graduate** from Brazil and an avid Data Science enthusiast. I currently work as a **Data Scientist** at Conta Azul, where I apply my skills daily to solve real-world problems. In addition to my full-time role, I’m passionate about sharing knowledge and empowering the next generation of Data Scientists and Analysts. I frequently collaborate with educational institutions, teaching and mentoring students in **machine learning**, **programming**, and **statistics**. If you're interested in discussing these topics or have any related questions, feel free to reach out—I'm always happy to connect and learn from others in the community.
 
 ## 📫 Let's connect on social media!
 
@@ -16,10 +14,8 @@ You can find me on [Instagram](https://www.instagram.com/adanielesantiago/), [Li
 
 ## 💡 About me 
 
-- 🖥️ Interested in seeing more of my work? Check out my portfolio [here](https://danielesantiago.info/).
-- 🌱 I'm continuously learning and growing my skills. Having already covered advanced topics in statistics, I'm now diving deeper into machine learning.
-- 👩‍🏫 I'm a Data Science mentor for interview preparations in data roles. You can learn more about it [here](https://www.renatabiaggi.com/ped).
-- 🔍 Explore my data science projects on [GitHub](https://github.com/danielesantiago/Data-Science).
+- 🖥️ Interested in seeing more of my work? Check out my portfolio [here](danielesantiago.my.canva.site/portfolio).
+- 👩‍🏫 I'm a Data Science mentor, helping others prepare for data-related interviews. You can reach out to me via [Linkedin](https://www.linkedin.com/in/daniele-santiago/).
 - ⚡ Fun fact: I'm a big coffee lover! It's my go-to drink to power through coding sessions.
 
 ## 📚 Tech Articles and Talks 
