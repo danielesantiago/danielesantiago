@@ -18,7 +18,7 @@ You can find me on [Instagram](https://www.instagram.com/adanielesantiago/), [Li
 
 ## 💡 About me 
 
-- 🖥️ Interested in seeing more of my work? Check out my portfolio [here](danielesantiago.my.canva.site/portfolio).
+- 🖥️ Interested in seeing more of my work? Check out my portfolio [here](https://danielesantiago.my.canva.site/portfolio).
 - 👩‍🏫 I'm a Data Science mentor, helping others prepare for data-related interviews. You can reach out to me via [Linkedin](https://www.linkedin.com/in/daniele-santiago/).
 - ⚡ Fun fact: I'm a big coffee lover! It's my go-to drink to power through coding sessions.
 - 🐱 I have a cat named Orion—yes, like the constellation! I’m also into astronomy.
