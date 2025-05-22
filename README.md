@@ -6,7 +6,7 @@
 [![author](https://img.shields.io/badge/author-dani-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![data-science](https://img.shields.io/badge/data-science-blue.svg)](https://www.linkedin.com/in/daniele-santiago/) [![medium](https://img.shields.io/badge/blog-medium-blue.svg)](https://medium.com/@daniele.santiago) 
 
 
-I'm **Daniele**, a **Computer Science Bachelor’s graduate** from Brazil and an avid Data Science enthusiast. I currently work as a **Data Scientist** at Conta Azul, where I apply my skills daily to solve real-world problems.
+I'm **Daniele**, a **Computer Science Bachelor’s graduate** from Brazil and an avid Data Science enthusiast. I currently work as a **\Senior Data Scientist** at Grupo Boticário, where I apply my skills daily to solve real-world problems.
 
 In addition to my full-time role, I’m passionate about sharing knowledge and empowering the next generation of Data Scientists and Analysts. I frequently collaborate with educational institutions, teaching and mentoring students in **machine learning**, **programming**, and **statistics**. 
 
